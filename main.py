@@ -85,8 +85,8 @@ def do_more_random_dice(dices, amount):
 #====== Program ======#
 print("""Roll the dice simulator
 Enter 'x' to quit
-Enter 'rdice' to roll 1 dice
-Enter 'rmdice' to roll more 1 dice
+Enter 'rdice' to roll a dice.
+Enter 'rmdice' to roll a dices.
 """)
 
 while True:
